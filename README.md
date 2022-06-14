@@ -74,17 +74,12 @@ Yes! We track current / past collaborators, meaning if you want to check if a po
 ## Why does it take so long for updates / new challenges?
 I work on these challenges & solutions in my spare time, on top of a full time job and everything else that comes in life. Because of this, I don't always get a lot of time to maintain and add new challenges. Interested in becoming a collaborator or submitting your own challenge? **Reach out below or submit a new challenge!**
 
-&nbsp;
-## Community ![slack-icon](https://puu.sh/Hse6N/da4145b9e1.png)
-We're on Slack - come and [join us](https://join.slack.com/t/reactcodingch-ywm3888/shared_invite/zt-o5ns0i1x-nUW_obRlBOAh2muJITqX~g)!
 
 &nbsp;
 ## Thoughts or feedback 💬
 Conflicting opinion about a challenge difficulty rating? Need some help or guidance? Got a challenge idea? Get in touch at [alexgurr.com](https://www.alexgurr.com).
 
-&nbsp;
-## Contributing 💡
-We have an [issue template](https://github.com/alexgurr/react-coding-challenges/blob/master/issue_template.md), [pull request template](https://github.com/alexgurr/react-coding-challenges/blob/master/pull_request_template.md) and a [new challenge template](https://github.com/alexgurr/react-coding-challenges/blob/master/new_challenge_template.md). We encourage you to fill out the right template and open a PR / issue!
+
 
 ### What Makes A Good Challenge?
 - Clear requirements
